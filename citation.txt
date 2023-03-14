@@ -1,0 +1,7 @@
+@inproceedings{REPO-181,
+    author = "Zhou, Huan and Ouyang, Xue and Ren, Zhijie and Su, Jinshu and de Laat, Cees and Zhao, Zhiming",
+    booktitle = "IEEE INFOCOM 2019-IEEE conference on computer Communications",
+    pages = "1567--1575",
+    title = "{A Blockchain-Based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement}",
+    year = "2019"
+}
